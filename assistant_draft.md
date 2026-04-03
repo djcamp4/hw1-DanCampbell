@@ -30,6 +30,7 @@ My name is Dan Campbell. I'm an ISAI major at Johns Hopkins. My undergraduate de
 
 I am interested in using AI to assist in social justice.  I think that AI, if applied fairly, can help fix some of the social injustices that exist right now.  A bullet list of 3 things I think it can help with are: determine credit worthiness for loans in a way more fair than the FICO score.  To have AI systems allow people to work less, possibly making a UBI possible, and pursue their interests.  To have AI make education more accessible
 
+******
 
 What went well: I think overall the assistant did a great job.  I like how the language is direct and clear.  And how it bridged together the ideas--I purposely didn't provide many transitions and the model added the necessary language to connect the ideas quite well.
 
