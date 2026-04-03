@@ -1,16 +1,20 @@
 # hw1-DanCampbell
 
 
-Youtube Link: https://www.youtube.com/watch?v=eNviQOmbLqk
-Github link:https://github.com/djcamp4/hw1-DanCampbell
+Youtube Link: https://www.youtube.com/watch?v=eNviQOmbLqk <br> 
+
+Github link:https://github.com/djcamp4/hw1-DanCampbell <br>
 
 
 ****
 
 
-Repository description:  The github repository is a location where I can save (or commit) what I'm coding.  It serves as a "save location" so I can go back in case something goes wrong in my project.  In my repository there are the following files:
+Repository description:  The github repository is a location where I can save (or commit) what I'm coding.  It serves as a "save location" so I can go back in case something goes wrong in my project.  In my repository there are the following files: <br>
+
 Readme.md: the description you're reading of the repository, the link to the youtube video, and the initial and final drafts of the assignment.
+
 assistant_draft.md: the initial draft created by Claude Code
+
 final_version.md: the final draft created by editing Claude's initial draft.
 
 *****
